@@ -17,7 +17,10 @@ function App() {
         <div>
           <div>
             <div>
-              <nav className="navbar navbar-default">
+              <nav
+                className="navbar navbar-default
+               justify-content-center"
+              >
                 <Link
                   to="/"
                   className="navbar-header black h2 montserrat weight800 letterspace0"
