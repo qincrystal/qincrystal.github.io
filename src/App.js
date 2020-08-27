@@ -18,7 +18,7 @@ function App() {
           <div>
             <div>
               <nav
-                className="navbar navbar-default
+                className="navbar navbar-default d-flex
                justify-content-center"
               >
                 <Link
