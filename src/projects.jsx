@@ -17,12 +17,15 @@ class Projects extends Component {
           </div>
           <div className="row m-md-2">
             <div className="col-8 merriweather weight300 h2 black fontSizeSmall">
-              <p className="weight500">7 days of Web Development</p>
+              <p className="weight500">Family Stock Tracker</p>
               <p className="lineHeightDouble size12">
-                I am taking summer 2020 as a time to explore front end web
-                development. From basic HTML to libraries such as ReactJS, I am
-                learning how to make small interactive websites for my
-                interests. Github repository coming soon!
+                Over the summer, my family got very invested in the stock
+                market. So I decided to build a web application that would help
+                track each member of my family's stocks. I was my first time
+                with full stack web development so it was a bit of a challenge,
+                but in the end, I made an application that can track and
+                vizualize stocks. Created with React, Express, Node.js and
+                MongoDB.
               </p>
             </div>
           </div>
