@@ -27,7 +27,7 @@ function App() {
                   href="#"
                   id="name"
                 >
-                  CRYSTAL QIN
+                  CRYSTAL
                 </Link>
               </nav>
               <div className=" d-flex justify-content-center">
