@@ -14,8 +14,8 @@ class Contact extends Component {
             <div className="col-8 merriweather weight300 h2 black fontSizeSmall mr-5 pr-5">
               <p className="lineHeightDouble">
                 Interested in connecting? Feel free to shoot me a{" "}
-                <span id="msg-link">
-                  <a href="mailto:qin.crystal0@gmail.com" id="msg-email">
+                <span className="msg-link">
+                  <a href="mailto:qin.crystal0@gmail.com" className="msg-email">
                     message
                   </a>
                 </span>

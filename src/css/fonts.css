@@ -103,7 +103,7 @@
   color: rgb(124, 121, 121) !important;
 }
 
-#msg-link:hover {
+.msg-link:hover {
   display: inline-block !important;
   text-decoration: none !important;
   -moz-transform: scale(1, -1) !important;
@@ -113,10 +113,10 @@
   transform: scale(1, -1) !important;
 }
 
-#msg-email {
+.msg-email {
   color: rgb(124, 121, 121) !important;
 }
 
-#msg-email:hover {
+.msg-email:hover {
   text-decoration: none !important;
 }
