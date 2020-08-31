@@ -64,6 +64,8 @@ class Projects extends Component {
                 <span className="msg-link">
                   <a
                     href="https://photos.app.goo.gl/jtfyCvpuaj8oGyns5"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     className="msg-email"
                   >
                     {"  "} here
