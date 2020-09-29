@@ -23,8 +23,9 @@ class Projects extends Component {
                 <p className="lineHeightDouble size12">
                   Over the summer, my family got very invested in the stock
                   market. So I decided to build a web application that would
-                  help track each member of my family's stocks. I was my first
-                  time with full stack web development so it was a bit of a
+                  help track each member of my family's stocks. I also used the
+                  Finnhub API to get current stock prices. I was my first time
+                  with full stack web development so it was a bit of a
                   challenge, but in the end, I made an application that can
                   track and vizualize stocks. Created with React, Express,
                   Node.js and MongoDB.
